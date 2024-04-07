@@ -1,0 +1,32 @@
+.learn-in-acca{
+    display: flex;
+    flex-direction: row;
+}
+.learn-in-acca>div{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    background-color: #63a9db3b;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20vh;
+    text-align: center;
+}
+.learn-in-acca>div>p{
+    background-color: blue;
+    width: 100%;
+}
+.outer-learn-in-acca{
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.outer-learn-in-acca>h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

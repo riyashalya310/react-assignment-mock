@@ -1,0 +1,12 @@
+.bg-primary{
+    background-color: #7598cb !important;
+    color: white;
+}
+.nav-link{
+    color: white !important;
+}
+.btn-light {
+    color: #8f8fdf !important;
+    background-color: #f8f9fa !important;
+    font-weight: bold !important;
+}
